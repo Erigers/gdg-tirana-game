@@ -1,0 +1,26 @@
+@keyframes cloudAnimation {
+  0% {
+    margin-left: 0;
+  }
+  100% {
+    margin-left: 100vw;
+  }
+}
+
+@-moz-keyframes cloudAnimation {
+  0% {
+    margin-left: 0;
+  }
+  100% {
+    margin-left: 100vw;
+  }
+}
+
+@-khtml-keyframes cloudAnimation {
+  0% {
+    margin-left: 0;
+  }
+  100% {
+    margin-left: 100vw;
+  }
+}
